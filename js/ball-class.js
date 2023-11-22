@@ -1,4 +1,4 @@
-import { randomRGB } from "./canvas-setup.js";
+import { randomRGB } from "./random-methods.js";
 import { ctx } from "./canvas-setup.js";
 import { width } from "./canvas-setup.js";
 import { height } from "./canvas-setup.js";

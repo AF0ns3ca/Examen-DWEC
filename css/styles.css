@@ -1,3 +1,5 @@
+/* Estilos añadidos para ajustar los margenes y demas, asi como para añadir un titulo y hacerlo mas difuminado. Estilos como los del ejemplo hecho en clase */
+
 *{
     padding: 0;
     margin: 0;
@@ -6,12 +8,11 @@
 
 body{
     overflow: hidden;
-    background-color: black;
     height: inherit;
 }
 
 h1{
-    font-size: 2rem;
+    font-size: 3rem;
     letter-spacing: -1px;
     margin: 0;
     position: absolute;
